@@ -8,7 +8,7 @@ in creative challenges judged by a host.
 ## Demo
 
 > Screen recording / screenshots showing the complete battle flow.
-> [Add your screen recording link here]
+> https://drive.google.com/file/d/1NUjMXpfqjb4OwgD7-KhfdZo_HtWFN6Yx/view?usp=sharing
 
 ---
 
